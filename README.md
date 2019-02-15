@@ -6,5 +6,7 @@ A fun app that uses live video feeds and distorts the image into a waterfall of 
 
 
 # Screenshots
-
+<video width="320" height="240" controls>
+  <source src="Screen Recording.mp4" type="video/mp4">
+</video>
 
