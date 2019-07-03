@@ -9,3 +9,7 @@ An experiment in real-time image and video processing.  In this app, users move 
 # Screenshots
 ![](screenshots/video.gif)
 
+# Code Samples
+
+* Manipulation of data feed into pixel waterfall: https://github.com/joaorebelo92/photo-smash/blob/master/Projecto_Final.pde
+
